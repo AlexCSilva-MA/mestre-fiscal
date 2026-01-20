@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.alexcsilva.com.br/wp-content/uploads/2026/01/logo-mestre-fiscal.png" alt="Mestre Fiscal Logo" width="500"/>
+  <img src="https://www.alexcsilva.com.br/wp-content/uploads/2026/01/logo-mestre-fiscal-m.png" alt="Mestre Fiscal Logo" width="500"/>
 </p>
 
 <h1 align="center">🎓 Mestre Fiscal: Do Zero ao Lucro com o Emissor Gratuito</h1>
