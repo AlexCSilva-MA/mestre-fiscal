@@ -82,7 +82,7 @@ O curso é estruturado como uma jornada progressiva, do fundamento à maestria.
 
 ## 🤝 Contribuições
 
-Este é um projeto vivo. Se você tem sugestões para melhorar o material, encontrou algum erro ou deseja contribuir com novos exemplos, por favor, abra uma **[Issue](https://github.com/AlexCSilva/[NOME-DO-SEU-REPOSITORIO]/issues )** ou envie um **[Pull Request](https://github.com/AlexCSilva/mestre-fiscal/pulls )**. Sua colaboração é bem-vinda!
+Este é um projeto vivo. Se você tem sugestões para melhorar o material, encontrou algum erro ou deseja contribuir com novos exemplos, por favor, abra uma **[Issue](https://github.com/AlexCSilva/mestre-fiscal/issues )** ou envie um **[Pull Request](https://github.com/AlexCSilva/mestre-fiscal/pulls )**. Sua colaboração é bem-vinda!
 
 ---
 
