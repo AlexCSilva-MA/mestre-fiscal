@@ -22,7 +22,7 @@
 
 ---
 
-Este repositório é o centro de recursos oficial do curso **Mestre Fiscal**, um projeto educacional criado e mantido por **[AlexCSilva](https://github.com/AlexCSilva )**. Nascido da experiência real de quem sentiu na pele o custo da desinformação fiscal, este material foi meticulosamente desenhado para guiar você com clareza, profundidade e, acima de tudo, respeito pelo seu tempo e pela sua jornada.
+Este repositório é o centro de recursos oficial do curso **Mestre Fiscal**, um projeto educacional criado e mantido por **[AlexCSilva](https://www.alexcsilva.com.br)**. Nascido da experiência real de quem sentiu na pele o custo da desinformação fiscal, este material foi meticulosamente desenhado para guiar você com clareza, profundidade e, acima de tudo, respeito pelo seu tempo e pela sua jornada.
 
 ---
 
@@ -72,7 +72,7 @@ O curso é estruturado como uma jornada progressiva, do fundamento à maestria.
 
 1.  **Clone ou Baixe o Repositório:** Tenha todos os materiais localmente.
     ```bash
-    git clone https://github.com/AlexCSilva/[NOME-DO-SEU-REPOSITORIO].git
+    git clone https://github.com/AlexCSilva/mestre-fiscal.git
     ```
 2.  **Siga a Trilha:** Assista aos vídeos na ordem proposta para uma construção de conhecimento sólida.
 3.  **Pratique Imediatamente:** Use as planilhas com dados reais do seu negócio para ver a teoria virar prática.
@@ -82,7 +82,7 @@ O curso é estruturado como uma jornada progressiva, do fundamento à maestria.
 
 ## 🤝 Contribuições
 
-Este é um projeto vivo. Se você tem sugestões para melhorar o material, encontrou algum erro ou deseja contribuir com novos exemplos, por favor, abra uma **[Issue](https://github.com/AlexCSilva/[NOME-DO-SEU-REPOSITORIO]/issues )** ou envie um **[Pull Request](https://github.com/AlexCSilva/[NOME-DO-SEU-REPOSITORIO]/pulls )**. Sua colaboração é bem-vinda!
+Este é um projeto vivo. Se você tem sugestões para melhorar o material, encontrou algum erro ou deseja contribuir com novos exemplos, por favor, abra uma **[Issue](https://github.com/AlexCSilva/[NOME-DO-SEU-REPOSITORIO]/issues )** ou envie um **[Pull Request](https://github.com/AlexCSilva/mestre-fiscal/pulls )**. Sua colaboração é bem-vinda!
 
 ---
 
@@ -94,5 +94,5 @@ A todos os empreendedores que, diariamente, constroem o Brasil do chão para cim
 
 > #### “A proposta deste curso é simples: você não está investindo R$ 497. Você está investindo na blindagem do seu negócio. Na economia de milhares de reais em impostos pagos errados. Na prevenção de multas que podem quebrar uma empresa. E, acima de tudo, na sua paz de espírito. Por menos de R$ 50 por mês, você está comprando o ativo mais valioso de todos: o controle e a segurança para prosperar.”
 >
-> **[Quero garantir minha vaga no Mestre Fiscal →]([SEU-LINK-PARA-A-PAGINA-DE-VENDAS-DO-CURSO-AQUI])**
+> **[Quero garantir minha vaga no Mestre Fiscal →](https://www.alexcsilva.com.br)**
 
