@@ -2,7 +2,7 @@
   <img src="https://www.alexcsilva.com.br/wp-content/uploads/2026/01/logo-mestre-fiscal-m.png" alt="Mestre Fiscal Logo" width="302"/>
 </p>
 
-<h1 align="center">🎓 Mestre Fiscal: Do Zero ao Lucro com o Emissor Gratuito</h1>
+<h1 align="center">🎓 Mestre Fiscal: Do Zero ao Lucro com o Novo Emissor Gratuito do SEBRAE</h1>
 
 <p align="center">
   <strong>Ensinar bem vai além do conteúdo.</strong> Este não é apenas um curso; é um manual de sobrevivência e prosperidade para o pequeno empreendedor brasileiro.
