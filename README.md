@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="[SEU-LINK-PARA-A-PAGINA-DE-VENDAS-DO-CURSO-AQUI]">
+  <a href="https://www.alexcsilva.com.br">
     <img src="https://img.shields.io/badge/Acesse%20o%20Curso-Comprar%20Agora-brightgreen?style=for-the-badge&logo=rocket" alt="Acessar o Curso">
   </a>
-  <a href="https://github.com/AlexCSilva/[NOME-DO-SEU-REPOSITORIO]/issues">
+  <a href="https://github.com/AlexCSilva/mestre-fiscal/issues">
     <img src="https://img.shields.io/github/issues/AlexCSilva/[NOME-DO-SEU-REPOSITORIO]?style=for-the-badge&logo=github" alt="GitHub issues">
   </a>
-  <a href="https://github.com/AlexCSilva/[NOME-DO-SEU-REPOSITORIO]/stargazers">
-    <img src="https://img.shields.io/github/stars/AlexCSilva/[NOME-DO-SEU-REPOSITORIO]?style=for-the-badge&logo=github" alt="GitHub stars">
+  <a href="https://github.com/AlexCSilva/mestre-fiscal/stargazers">
+    <img src="https://img.shields.io/github/stars/AlexCSilva/mestre-fiscal?style=for-the-badge&logo=github" alt="GitHub stars">
   </a>
 </p>
 
