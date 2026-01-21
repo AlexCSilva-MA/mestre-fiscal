@@ -135,13 +135,12 @@ A todos os empreendedores que, diariamente, constroem o Brasil do chão para cim
 
 ---
 
-##🔗 Links Úteis
-
-Portal do Empreendedor (MEI)
-Emissor Sebrae
-Receita Federal – NF-e
-SEFAZ Maranhão
-
+> ##🔗 Links Úteis
+> 
+- **[Portal do Empreendedor (MEI)](https://www.gov.br/empreendedor?spm=a2ty_o01.29997173.0.0.26c85171U4yPYJ)**
+- **[Emissor Sebrae](https://emissornfe.sebrae.com.br/?spm=a2ty_o01.29997173.0.0.26c85171U4yPYJ)**
+- **[Receita Federal – NF-e](https://www.gov.br/nfe?spm=a2ty_o01.29997173.0.0.26c85171U4yPYJ)**
+- **[SEFAZ Maranhão](https://www.sefaz.ma.gov.br/?spm=a2ty_o01.29997173.0.0.26c85171U4yPYJ)**
 ---
 
 #### © 2026 Alex Correia da Silva — Todos os direitos reservados.
