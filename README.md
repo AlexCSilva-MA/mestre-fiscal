@@ -144,8 +144,7 @@ SEFAZ Maranhão
 
 ---
 
-> #### © 2026 Alex Correia da Silva — Todos os direitos reservados.
-> 
-> Feito com ❤️ em Pastos Bons, Maranhão.
+#### © 2026 Alex Correia da Silva — Todos os direitos reservados.
+Feito com ❤️ em Pastos Bons, Maranhão.
 
 ---
