@@ -133,3 +133,19 @@ A todos os empreendedores que, diariamente, constroem o Brasil do chão para cim
 >
 > **[Quero garantir minha vaga no Mestre Fiscal →](https://www.alexcsilva.com.br)**
 
+---
+
+##🔗 Links Úteis
+
+Portal do Empreendedor (MEI)
+Emissor Sebrae
+Receita Federal – NF-e
+SEFAZ Maranhão
+
+---
+
+> #### © 2026 Alex Correia da Silva — Todos os direitos reservados.
+> 
+> Feito com ❤️ em Pastos Bons, Maranhão.
+
+---
